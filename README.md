@@ -31,7 +31,7 @@ If you need help or find bugs just join our Discord. If you have any wishes you 
 
 2. If you want to change the notify search in the client files for **“lib.notify({ ...”** and change it to your notify. In the server files, search for **“TriggerClientEvent(‘ox_lib:notify’ ...”** and change this to your notify as well.
 
-3. If your standard rang for your useres isn`t **"user"** go to server/commands.lua line 10 and change the user from **elseif xPlayer.getGroup() == 'user' then**
+3. If your standard rang for your users isn`t **"user"** go to server/commands.lua line 10 and change the user from **elseif xPlayer.getGroup() == 'user' then**
 
 4. If you don't want a Supersprint, then go to client/anzug.lua and Delete **SetRunSprintMultiplierForPlayer(PlayerId(), 1.49) --Supersprint** (Line: 77) and **SetRunSprintMultiplierForPlayer(PlayerId(), 1.00) --Supersprint** (Line: 93)
 

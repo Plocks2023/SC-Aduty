@@ -25,7 +25,7 @@ If you need help or find bugs just join our Discord. If you have any wishes you 
   
 ===========================================================================
 
-###Docs
+### Docs
 
 1. If you want to add more ranks go to the config and copy a rank. Change “rang=” to the rank you want and change the clothing. There is no limit to how many ranks there can be.
 

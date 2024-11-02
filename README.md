@@ -46,7 +46,7 @@ If you need help or find bugs just join our Discord. If you have any wishes you 
              -- for exampel you can spawn a car....
         else
              print('Player isn't in Aduty')
-             -- and can make here a Noify that he must be in the aduty for spawning a car
+             -- here you can make a Noify that he must be in the aduty for spawning a car
 
         end
 

@@ -18,7 +18,7 @@ If you need help or find bugs just join our Discord. If you have any wishes you 
 
 ### CMD
 
-* aduty  =  Aduty
+* /aduty  =  Aduty
 * /v  =  Vanish
 * /superjump  =  Superjump
 * /adminmenu  =  Adminmenu

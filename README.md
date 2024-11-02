@@ -29,7 +29,7 @@ If you need help or find bugs just join our Discord. If you have any wishes you 
 
 1. If you want to add more ranks go to the config and copy a rank. Change “rang=” to the rank you want and change the clothing. There is no limit to how many ranks there can be.
 
-2. If you want to change the notify, search in the client files for “lib.notify({ ...” and change it to your notify. In the server files, search for “TriggerClientEvent(‘ox_lib:notify’ ...” and change this to your notify as well.
+2. If you want to change the notify search in the client files for “lib.notify({ ...” and change it to your notify. In the server files, search for “TriggerClientEvent(‘ox_lib:notify’ ...” and change this to your notify as well.
 
 3. If your standard rang for your useres isn`t "user" go to server/commands.lua line 10 and change the user from **elseif xPlayer.getGroup() == 'user' then**
 

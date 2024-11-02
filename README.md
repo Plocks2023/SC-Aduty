@@ -16,7 +16,7 @@ If you need help or find bugs just join our Discord. If you have any wishes you 
 
 ===========================================================================
 
-###CMD
+### CMD
 
 * aduty  =  Aduty
 * /v  =  Vanish

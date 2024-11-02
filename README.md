@@ -43,8 +43,11 @@ If you need help or find bugs just join our Discord. If you have any wishes you 
 
         if isInDuty then
              print('Player is in Aduty')
+             -- for exampel you can spawn a car....
         else
              print('Player isn't in Aduty')
+             -- and can make here a Noify that he must be in the aduty for spawning a car
+
         end
 
    5.2 For what you use it? 

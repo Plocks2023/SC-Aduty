@@ -12,7 +12,7 @@ Free Fivem ESX/OX Aduty script with Commands and Simpel Config
 
 ===========================================================================
 
-If you need help or find bugs just join our Discord. If you have any wishes you can also tell us that. (https://discord.gg/sYdtgZ2FUy)
+If you need help or find bugs just join our Discord. If you have any wishes you can also tell us that. ([Discord](https://discord.gg/NZTdgUX5Gt))
 
 ===========================================================================
 
